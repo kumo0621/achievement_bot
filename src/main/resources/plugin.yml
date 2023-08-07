@@ -1,0 +1,4 @@
+name: achievement_bot
+version: '${project.version}'
+main: com.github.kumo0621.achievement_bot.Achievement_bot
+api-version: 1.16
